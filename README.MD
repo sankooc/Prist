@@ -16,7 +16,7 @@
 ## DOWNLOAD
 
 - [curseforge](https://www.curseforge.com/wow/addons/prist/files/all)
-- [realse](https://github.com/sankooc/wow-interface-prist/releases)
+- [release](https://github.com/sankooc/wow-interface-prist/releases)
 
 ## EXISTS BUGs 
 
