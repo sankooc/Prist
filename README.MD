@@ -13,6 +13,11 @@
 
 ![SNAPSHOT](https://github.com/sankooc/wow-interface-prist/raw/master/doc/shot.png)
 
+## INGAME CLI
+
+- `/prist show -- 显示施法条`
+- `/prist hide -- 隐藏施法条`
+
 ## DOWNLOAD
 
 - [curseforge](https://www.curseforge.com/wow/addons/prist/files/all)
