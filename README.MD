@@ -1,8 +1,8 @@
-# Prist (for Classic)
+## Prist (for Classic)
 
 治疗职业法术条辅助工具
 
-![Nulll](doc/head.png)
+![Nulll](https://github.com/sankooc/wow-interface-prist/raw/master/doc/head.png)
 
 
 ## FEATURES
@@ -13,13 +13,13 @@
 
 ## SNAPSHOT
 
-![SNAPSHOT](doc/shot.png)
+![SNAPSHOT](https://github.com/sankooc/wow-interface-prist/raw/master/doc/shot.png)
 
 <!-- ## DOWNLOAD -->
 
 <!-- * forcecurse -->
 
-# EXISTS BUGs 
+## EXISTS BUGs 
 
 * 其他角色施法打断无法检测
 
