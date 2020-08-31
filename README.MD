@@ -2,8 +2,6 @@
 
 治疗职业法术条辅助工具
 
-![Nulll](https://github.com/sankooc/wow-interface-prist/raw/master/doc/head.png)
-
 
 ## FEATURES
 
@@ -15,9 +13,10 @@
 
 ![SNAPSHOT](https://github.com/sankooc/wow-interface-prist/raw/master/doc/shot.png)
 
-<!-- ## DOWNLOAD -->
+## DOWNLOAD
 
-<!-- * forcecurse -->
+- [curseforge](https://www.curseforge.com/wow/addons/prist/files/all)
+- [realse](https://github.com/sankooc/wow-interface-prist/releases)
 
 ## EXISTS BUGs 
 
@@ -31,9 +30,13 @@
 
 ## BUG/建议
 
-添加 issue 或者在 碧玉矿洞(联盟)(CN) 密 Nullpointer
+添加 [issue](https://github.com/sankooc/wow-interface-prist/issues/new) 或者在 碧玉矿洞(联盟)(CN) 密 Nullpointer
 
 
 ## CONTRUBUTE
 
-CREATE PR <- here
+欢迎大家发pr [github flow](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/github-flow)
+
+## 爆个照
+
+![Nulll](https://github.com/sankooc/wow-interface-prist/raw/master/doc/head.png)
