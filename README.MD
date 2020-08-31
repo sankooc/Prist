@@ -11,7 +11,7 @@
 
 ## SNAPSHOT
 
-![SNAPSHOT](https://github.com/sankooc/wow-interface-prist/raw/master/doc/shot.png)
+![SNAPSHOT](https://img.nga.178.com/attachments/mon_202008/31/7mQ5-fuuvK28T3cSpt-bl.jpg)
 
 ## INGAME CLI
 

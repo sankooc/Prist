@@ -12,11 +12,13 @@ function util.unpack (t, i)
 end
 
 function util.view(arg)
+  if not debug then return end
   for k, v in pairs(arg) do
     print(k, v)
   end
 end
 
 function util.log(...)
+  if not debug then return end
   print(...)
 end

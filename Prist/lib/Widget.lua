@@ -92,14 +92,13 @@ function WidgetFactory:show(index)
   icon:SetSize(ht, ht)
   icon:SetPoint("TOPLEFT", item, 0, 0)
   icon:Show()
-  
+
   local r, g, b, a = barStyle(self.store.name)
   prog:SetColorTexture(r, g, b, a)
   prog:SetSize(progress_width / rate, ht - b_height)
   prog:SetPoint("TOPLEFT", item, ht + s_padding, 0)
   prog:Show()
-  
-  -- view(self.texts)
+
   local fs, ss, ps = unpack(self.texts)
   -- log(fs)
   fs:SetText(name)
@@ -119,8 +118,6 @@ function WidgetFactory:show(index)
   ss:SetPoint("BOTTOMLEFT",item, ht * 1.2 + s_padding, 2)
   ss:Show()
 
-
-  
   local aag, aa1 = unpack(self.animations)
   aa1:SetOrigin("LEFT",0,0)
   aa1:SetScale(rate,1)
